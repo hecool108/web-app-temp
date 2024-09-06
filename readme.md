@@ -1,11 +1,9 @@
-# prepare template from source
+# Web App Temp
 bunx
 ```bash
 bunx degit https://github.com/hecool108/web-app-temp  your-app-name
 cd your-app-name
 ```
-
-# backend-ts-template
 
 To install dependencies:
 
